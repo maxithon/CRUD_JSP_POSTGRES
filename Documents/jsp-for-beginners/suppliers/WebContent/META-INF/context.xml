@@ -1,0 +1,9 @@
+<Context>
+<Resource name="jdbc/suppliers_info" 
+  			auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="5" maxWait="10000"
+               username="postgres" password="Kigali@10" 
+               driverClassName="org.postgresql.Driver"                             
+               url="jdbc:postgresql://localhost:5432/suppliers_info"/>         
+             </Context>
+
