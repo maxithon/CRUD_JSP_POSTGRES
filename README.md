@@ -8,8 +8,8 @@ Postgres as DBMS.
 which has table called spl_suppliers 
 that has 4 field.(id,first_name,last_name,phone,location),
 
-2. We use Bootstrap in designing form for insert and table for retrieving information.
+2. I use Bootstrap in designing form for insert and table for retrieving information.
 
-3.
+
 
 
